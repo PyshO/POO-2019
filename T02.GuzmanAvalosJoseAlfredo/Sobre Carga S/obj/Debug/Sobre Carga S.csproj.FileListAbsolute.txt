@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\bin\Debug\Sobre Carga S.exe.config
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\bin\Debug\Sobre Carga S.exe
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\bin\Debug\Sobre Carga S.pdb
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\obj\Debug\Sobre Carga S.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\obj\Debug\Sobre Carga S.exe
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\obj\Debug\Sobre Carga S.pdb
+C:\Users\hp\Documents\POO\Sobre Carga S\Sobre Carga S\obj\Debug\Sobre Carga S.csprojAssemblyReference.cache
