@@ -1,0 +1,7 @@
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\bin\Debug\Sobre Carga.exe.config
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\bin\Debug\Sobre Carga.exe
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\bin\Debug\Sobre Carga.pdb
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\obj\Debug\Sobre Carga.csprojAssemblyReference.cache
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\obj\Debug\Sobre Carga.csproj.CoreCompileInputs.cache
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\obj\Debug\Sobre Carga.exe
+C:\Users\ITT\source\repos\Sobre Carga\Sobre Carga\obj\Debug\Sobre Carga.pdb
