@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\bin\Debug\Geometricos Sobre Carga.exe.config
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\bin\Debug\Geometricos Sobre Carga.exe
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\bin\Debug\Geometricos Sobre Carga.pdb
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\obj\Debug\Geometricos Sobre Carga.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\obj\Debug\Geometricos Sobre Carga.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\obj\Debug\Geometricos Sobre Carga.exe
+C:\Users\hp\source\repos\Geometricos Sobre Carga\Geometricos Sobre Carga\obj\Debug\Geometricos Sobre Carga.pdb
