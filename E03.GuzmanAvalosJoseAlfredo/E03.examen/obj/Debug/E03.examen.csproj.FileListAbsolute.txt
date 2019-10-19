@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\obj\Debug\E03.examen.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\obj\Debug\E03.examen.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\bin\Debug\E03.examen.exe.config
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\bin\Debug\E03.examen.exe
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\bin\Debug\E03.examen.pdb
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\obj\Debug\E03.examen.exe
+C:\Users\hp\Documents\POO\E03.examen\E03.examen\obj\Debug\E03.examen.pdb
