@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\bin\Debug\Abstrapto.exe.config
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\bin\Debug\Abstrapto.exe
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\bin\Debug\Abstrapto.pdb
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\obj\Debug\Abstrapto.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\obj\Debug\Abstrapto.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\obj\Debug\Abstrapto.exe
+C:\Users\hp\Documents\POO\Abstrapto\Abstrapto\obj\Debug\Abstrapto.pdb
