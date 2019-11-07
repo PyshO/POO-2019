@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\bin\Debug\T3 U4.exe.config
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\bin\Debug\T3 U4.exe
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\bin\Debug\T3 U4.pdb
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\obj\Debug\T3 U4.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\obj\Debug\T3 U4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\obj\Debug\T3 U4.exe
+C:\Users\hp\Documents\POO\T3 U4\T3 U4\obj\Debug\T3 U4.pdb
