@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\Error\Error\bin\Debug\Error.exe.config
+C:\Users\hp\Documents\POO\Error\Error\bin\Debug\Error.exe
+C:\Users\hp\Documents\POO\Error\Error\bin\Debug\Error.pdb
+C:\Users\hp\Documents\POO\Error\Error\obj\Debug\Error.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\Error\Error\obj\Debug\Error.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\Error\Error\obj\Debug\Error.exe
+C:\Users\hp\Documents\POO\Error\Error\obj\Debug\Error.pdb
