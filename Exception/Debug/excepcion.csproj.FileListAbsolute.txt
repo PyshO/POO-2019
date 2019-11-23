@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\POO\excepcion\excepcion\obj\Debug\excepcion.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\excepcion\excepcion\obj\Debug\Execepcion1.Form1.resources
+C:\Users\hp\Documents\POO\excepcion\excepcion\obj\Debug\excepcion.Properties.Resources.resources
+C:\Users\hp\Documents\POO\excepcion\excepcion\obj\Debug\excepcion.csproj.GenerateResource.cache
+C:\Users\hp\Documents\POO\excepcion\excepcion\obj\Debug\excepcion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\bin\Debug\excepcion.exe.config
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\bin\Debug\excepcion.exe
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\bin\Debug\excepcion.pdb
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\Execepcion1.Form1.resources
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.Properties.Resources.resources
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.csproj.GenerateResource.cache
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.exe
+C:\Users\hp\Documents\POO\Unidad 6\Unidad 5\T01.U5..GuzmanAvalosJoseAlfredo\excepcion\obj\Debug\excepcion.pdb
