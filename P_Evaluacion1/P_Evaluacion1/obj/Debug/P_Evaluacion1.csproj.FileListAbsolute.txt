@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\bin\Debug\P_Evaluacion1.exe.config
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\bin\Debug\P_Evaluacion1.exe
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\bin\Debug\P_Evaluacion1.pdb
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\obj\Debug\P_Evaluacion1.csprojAssemblyReference.cache
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\obj\Debug\P_Evaluacion1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\obj\Debug\P_Evaluacion1.exe
+C:\Users\hp\Documents\POO\P_Evaluacion1\P_Evaluacion1\obj\Debug\P_Evaluacion1.pdb

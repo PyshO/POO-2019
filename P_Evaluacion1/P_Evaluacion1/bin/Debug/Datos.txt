@@ -1,0 +1,18 @@
+19210504, Guzman Avalos Jose Alfredo, Sistemas, 20
+19210502, Perez Perez Miguel Angel, Sistemas, 21
+19210503, Manuel Iglesias Cobo, Industrial, 20
+19210505, Inés Martínez Rey, Robotica, 22	
+19210506, Luis Tomás Gómez, Mecatronica, 23
+19210507, Julio del Río Ramos, Electricidad, 20
+19210508, Clara Rodríguez Pinto, Administracion, 21
+19210509, Pedro Rico Martín, Informatica, 23
+19210510, Oscar Martín Jiménez, Licenciado en comida, 22	
+19210511, Raúl Arce Gallardo, Licenciado en musica, 21
+19210512, Sonia Ruiz de Andrés, Licenciado en ciudades, 22
+19210401, Juan Gonzales Rodriguez, Lic Doctor, 23
+19210402, Jose Luis Gomez Fernandez, Lic En Licuados, 24
+19210403, Jose Lopez Diaz, Lic en Ensaladas, 28
+19210402, Maria Guadalupe Martinez Perez, Lic en Tacos, 26
+19210403, Francisco Garcia Sanchez, Lic en Medicina, 21
+19210404, Guadalupe Benitez Acosta, Lic en Mercadotecnia, 26
+19210405, Maria Suarez Aguirre, Minera, 28
