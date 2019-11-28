@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.AssemblyInfo.cs
+C:\Users\hp\Documents\Practicas_Poo\bin\Debug\netcoreapp2.1\Practicas_Poo.deps.json
+C:\Users\hp\Documents\Practicas_Poo\bin\Debug\netcoreapp2.1\Practicas_Poo.runtimeconfig.json
+C:\Users\hp\Documents\Practicas_Poo\bin\Debug\netcoreapp2.1\Practicas_Poo.runtimeconfig.dev.json
+C:\Users\hp\Documents\Practicas_Poo\bin\Debug\netcoreapp2.1\Practicas_Poo.dll
+C:\Users\hp\Documents\Practicas_Poo\bin\Debug\netcoreapp2.1\Practicas_Poo.pdb
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.dll
+C:\Users\hp\Documents\Practicas_Poo\obj\Debug\netcoreapp2.1\Practicas_Poo.pdb
